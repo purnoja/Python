@@ -1,0 +1,7 @@
+my_name="Purnoja"
+Age=34
+salary=23454.87
+
+print(my_name)
+print(Age)
+print(salary)
