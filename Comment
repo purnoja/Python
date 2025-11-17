@@ -1,0 +1,6 @@
+# Name
+print("I am Purnoja")
+
+"""Hometown & Age"""
+
+print("I am from Dhaka.I am",12,"years old")
