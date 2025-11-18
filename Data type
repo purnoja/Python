@@ -1,0 +1,62 @@
+x="Lookig preety"
+print(x)
+print(type(x))
+
+x=7
+print(x)
+print(type(x))
+
+x=7.7
+print(x)
+print(type(x))
+
+x=7j
+print(x)
+print(type(x))
+
+x=["Purnoja", "Priti", "Rahi"]
+print(x)
+print(type(x))
+
+x=("Purnoja", "Priti", "Rahi")
+print(x)
+print(type(x))
+
+x=range(7)
+print(x)
+print(type(x))
+
+x={"Name":"Priti","Age":21}
+print(x)
+print(type(x))
+
+x={"Purnoja", "Priti", "Rahi"}
+print(x)
+print(type(x))
+
+x=frozenset({"Purnoja", "Priti", "Rahi"})
+print(x)
+print(type(x))
+
+x=True
+print(x)
+print(type(x))
+
+x=b"Love"
+print(x)
+print(type(x))
+
+x=bytearray(7)
+print(x)
+print(type(x))
+
+x=memoryview(bytes(7))
+print(x)
+print(type(x))
+
+x=None
+print(x)
+print(type(x))
+
+   
+
