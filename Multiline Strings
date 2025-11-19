@@ -1,0 +1,5 @@
+print("""Python is a high-level, easy-to-read programming language used
+for web development, data science, automation, artificial intelligence, and more.
+It’s popular because of its simple syntax, large community, and thousands of
+helpful libraries that make building programs faster and easier.
+""")
