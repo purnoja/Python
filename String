@@ -1,0 +1,5 @@
+Name="Purni"
+
+print("I am "+Name ,end=". ")
+print("I am a student of 'Software Engineering' ",end=" ")
+print('at "Daffodil International University".')
