@@ -1,5 +1,10 @@
-print("""Python is a high-level, easy-to-read programming language used
+a = ''' Python is a high-level, easy-to-read programming language used
 for web development, data science, automation, artificial intelligence, and more.
-It’s popular because of its simple syntax, large community, and thousands of
-helpful libraries that make building programs faster and easier.
-""")
+Its popular because of its simple syntax, large community, and thousands of
+helpful libraries that make building programs faster and easier.'''
+print(a)
+
+print("""Python lets developers build applications quickly while keeping code simple. 
+Because of its flexibility and massive ecosystem, its one of the most widely 
+used languages in the world today from beginners learning to code to companies 
+building large-scale applications. """)
