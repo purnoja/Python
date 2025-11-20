@@ -1,2 +1,9 @@
 a="Python is fantastic" 
 print(len(a))
+
+x="I Love Python"
+print(len(x))
+
+name="Purnoja"
+print(len(name))
+
