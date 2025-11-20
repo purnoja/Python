@@ -1,0 +1,6 @@
+x="Suffering and Joy are both part of being alive."
+print(x.upper())
+print(x.lower())
+print(x.strip())
+print(x.replace("S","J"))
+print(x.split(","))
