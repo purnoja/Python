@@ -1,0 +1,11 @@
+pp="Python is amazing"
+print("fastastic" in pp)
+print("amazing" in pp)
+
+if "amazing" in pp:
+    print("Yes ,'amazing' present in pp")
+
+    print("fantastic" not in pp)
+
+if "Fantastic" not in pp:
+    print("No.'Fantastic' is not present in pp")
