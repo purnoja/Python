@@ -1,0 +1,2 @@
+a="Python is fantastic" 
+print(len(a))
