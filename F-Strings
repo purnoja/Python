@@ -1,0 +1,10 @@
+age=45
+Age=32
+txt=f"I am Purnoja.I am {age} years old "
+print(txt)
+print(f"My brother is {Age} years old")
+
+price=2000
+print(f"The price is {price:.2f}Tk")
+
+print(f"The price is {20*40:.3f}Tk")
