@@ -1,0 +1,7 @@
+a="String"
+b="Concatenation"
+x=a+b
+c=a+" "+b
+print(x)
+print(c)
+
