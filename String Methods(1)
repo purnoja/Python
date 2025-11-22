@@ -1,0 +1,29 @@
+#capitalize()-Converts the first character to upper case
+print("hello world".capitalize())
+
+#casefold()-Converts string into lower case
+print("HELLO wORLD".casefold())
+
+#center()-Returns a centered string
+txt=("Hello World")
+print(txt.center(20))
+
+#count()-Returns the number of times a specified value occurs in a string
+pp="I love apples, apple are my favorite fruit"
+x=pp.count("apple")
+print(x)
+
+#encode()-Returns an encoded version of the string
+print("My name is Purnoja".encode())
+
+#endswith()	Returns true if the string ends with the specified value
+print("Everything is temporary".endswith("."))
+print("Everything is temporary!".endswith("!"))
+
+#expandtabs()-Sets the tab size of the string
+print("Everything\t i\ts \t tempo\trary".expandtabs(5))
+
+#find()	-Searches the string for a specified value and returns the position of where it was found
+print("Hello, welcome to my world.".find("welcome"))
+
+
