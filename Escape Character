@@ -1,0 +1,30 @@
+#(\" )allows to use double quotes in string
+print("I love \"Python\" ")
+print("The \"escape character\" allows you to use \"double quotes\" when you normally would not be allowed")
+
+#single Quote(\')
+txt="Python\'s one of the easiest programming languages to learn."
+print(txt)
+
+#Backslash(\\)
+print("This will insert one \\ (backslash).")
+
+#Newline(\n)
+print( "Python\'s one of the easiest programming languages to learn." \
+"\n It\'s used for web development, data science, AI, automation, and more.")
+
+#Criiage return(\r)
+pp="Carriage\rReturn"
+print(pp)
+
+#tab(\t)
+print("Hello\tworld")
+
+#Backspace(\b)
+print("Hello \bWorld")
+
+#Octal value("\3int(0-7)\...\..." or "\ooo")
+print("\130\165\157\154\151")
+
+#hex value(\xhh)
+print("\x65\x64\x67\x6c\x6f")
